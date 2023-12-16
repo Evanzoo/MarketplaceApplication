@@ -1,0 +1,23 @@
+# Dependency directory
+node_modules/
+
+# Environment variables
+.env
+
+# Build directory
+/dist
+
+# Logs
+*.log
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
